@@ -1,8 +1,8 @@
-shadowsocks=172.104.116.232:8097, method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D, fast-open=true, udp-relay=true, tag=日本-Tokyo-A
-shadowsocks=172.104.98.12:8099, method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D, fast-open=true, udp-relay=true, tag=日本-B
-shadowsocks=172.104.98.12:8097, method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D, fast-open=true, udp-relay=true, tag=日本-C
-vmess = xz1.mmttpp.icu:20003, method=chacha20-ietf-poly1305, password=c7fb22d6-962a-3d7c-a314-9327bc7010ae, obfs=ws, obfs-host=hinet-flys1.nnet.tech, obfs-uri=/, fast-open=true, tag=徐州-A
-vmess = cn2.miaonode.cf:60022, method=chacha20-ietf-poly1305, password=583869ee-7050-3b1c-9edc-570acb485b79, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=false, tag=日本中转-A
-vmess = 119.188.240.54:33364, method=chacha20-ietf-poly1305, password=f6afc6d0-789e-11ea-bf05-560002ab00f6, obfs=wss, obfs-host=britagood.ml, obfs-uri=/1y6iEehJ/, fast-open=true, tag=枣庄联通-A
-vmess = 119.188.240.54:33365, method=chacha20-ietf-poly1305, password=bea4331e-789b-11ea-8db7-560002aafd61, obfs=wss, obfs-host=canongood.ml, obfs-uri=/jGAWH0CL/, fast-open=true, tag=枣庄联通-B
-vmess = xz1.mmttpp.icu:20002, method=chacha20-ietf-poly1305, password=c7fb22d6-962a-3d7c-a314-9327bc7010ae, obfs=ws, obfs-host=hinet-flys1.nnet.tech, obfs-uri=/, fast-open=true, tag=转接白嫖节点-A
+shadowsocks=172.104.116.232:8097, method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D, fast-open=true, udp-relay=true, tag=🇯🇵 日本-Tokyo-A
+shadowsocks=172.104.98.12:8099, method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D, fast-open=true, udp-relay=true, tag=🇯🇵 日本-B
+shadowsocks=172.104.98.12:8097, method=aes-256-cfb, password=eIW0Dnk69454e6nSwuspv9DmS201tQ0D, fast-open=true, udp-relay=true, tag=🇯🇵 日本-C
+vmess = xz1.mmttpp.icu:20003, method=chacha20-ietf-poly1305, password=c7fb22d6-962a-3d7c-a314-9327bc7010ae, obfs=ws, obfs-host=hinet-flys1.nnet.tech, obfs-uri=/, fast-open=true, tag=🇯🇵 徐州-A
+vmess = cn2.miaonode.cf:60022, method=chacha20-ietf-poly1305, password=583869ee-7050-3b1c-9edc-570acb485b79, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=false, tag=🇯🇵 日本中转-A
+vmess = 119.188.240.54:33364, method=chacha20-ietf-poly1305, password=f6afc6d0-789e-11ea-bf05-560002ab00f6, obfs=wss, obfs-host=britagood.ml, obfs-uri=/1y6iEehJ/, fast-open=true, tag=🇯🇵 枣庄联通-A
+vmess = 119.188.240.54:33365, method=chacha20-ietf-poly1305, password=bea4331e-789b-11ea-8db7-560002aafd61, obfs=wss, obfs-host=canongood.ml, obfs-uri=/jGAWH0CL/, fast-open=true, tag=🇯🇵 枣庄联通-B
+vmess = xz1.mmttpp.icu:20002, method=chacha20-ietf-poly1305, password=c7fb22d6-962a-3d7c-a314-9327bc7010ae, obfs=ws, obfs-host=hinet-flys1.nnet.tech, obfs-uri=/, fast-open=true, tag=🇯🇵 转接白嫖节点-A
