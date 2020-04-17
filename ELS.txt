@@ -1,0 +1,5 @@
+vmess = 45.140.168.30:59237, method=chacha20-ietf-poly1305, password=92c15381-e189-4f5d-b6f1-dfc00fa1fe60, fast-open=true, udp-relay=false, tag=Russia-A
+vmess = 46.17.45.164:59237, method=chacha20-ietf-poly1305, password=e2f8c3d7-1a9b-4189-a3c0-2b781ae41929, fast-open=true, udp-relay=false, tag=Russia-B
+vmess = cn2.miaonode.cf:60014, method=chacha20-ietf-poly1305, password=583869ee-7050-3b1c-9edc-570acb485b79, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=false, tag=俄罗斯中转-A
+vmess = vcoooncooon.xyz:7553, method=chacha20-ietf-poly1305, password=9fc59116-b5c1-41dc-b6ba-501f42f3448a, obfs=ws, obfs-host=vcoooncooon.xyz, obfs-uri=/, fast-open=true, tag=俄罗斯（大陆优化不限流量）
+vmess = 194.147.32.66:59237, method=chacha20-ietf-poly1305, password=9a4c372b-1a37-4751-a394-dd77514b2668, fast-open=true, tag=Russia-C
