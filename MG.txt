@@ -1,4 +1,4 @@
-shadowsocks = 144.34.219.191:80, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=true, udp-relay=true, tag=🇺🇲 洛杉磯-E
-vmess=69.85.93.230:25163, method=chacha20-ietf-poly1305, password=0f09a642-2a57-45bb-d876-dd72cc2908ee, obfs=ws, obfs-uri=/, fast-open=true, udp-relay=false, tag=🇺🇲 AA
-vmess = cn2.miaonode.cf:60016, method=chacha20-ietf-poly1305, password=583869ee-7050-3b1c-9edc-570acb485b79, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=false, tag=🇺🇲 美国中转-A
-vmess = ushe2.xt.pccw.best:60380, method=chacha20-ietf-poly1305, password=c7fb22d6-962a-3d7c-a314-9327bc7010ae, obfs=ws, obfs-host=ushe-sw2.nnet.tech, obfs-uri=/files, fast-open=true, tag=🇺🇲 NMSL美国
+shadowsocks = 144.34.219.191:80, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=true, udp-relay=true, tag=🇺🇸 洛杉磯-E
+vmess=69.85.93.230:25163, method=chacha20-ietf-poly1305, password=0f09a642-2a57-45bb-d876-dd72cc2908ee, obfs=ws, obfs-uri=/, fast-open=true, udp-relay=false, tag=🇺🇸 AA
+vmess = cn2.miaonode.cf:60016, method=chacha20-ietf-poly1305, password=583869ee-7050-3b1c-9edc-570acb485b79, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=false, tag=🇺🇸 美国中转-A
+vmess = ushe2.xt.pccw.best:60380, method=chacha20-ietf-poly1305, password=c7fb22d6-962a-3d7c-a314-9327bc7010ae, obfs=ws, obfs-host=ushe-sw2.nnet.tech, obfs-uri=/files, fast-open=true, tag=🇺🇸 NMSL美国
