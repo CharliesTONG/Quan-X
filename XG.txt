@@ -8,3 +8,4 @@ vmess = 47.240.170.12:80, method=chacha20-ietf-poly1305, password=6a2842e0-134e-
 vmess = 47.240.170.12:443, method=chacha20-ietf-poly1305, password=a0058e31-db7b-4ad5-c358-ed1876e08587, obfs=ws, obfs-host=jacobabc123.xyz, obfs-uri=/, fast-open=true, tag=🇭🇰 HK-C-443-Test
 shadowsocks = www.alpha-heart.ml:23335, method=aes-256-cfb, password=eXv6lGiTUiQsGjZ, ssr-protocol=auth_sha1_v4, obfs=plain, fast-open=true, udp-relay=true, tag=🇭🇰 香港5M
 vmess = 103.35.72.33:38986, method=chacha20-ietf-poly1305, password=4b0ec8c6-cd67-07e1-6b1f-012865fec84f, fast-open=true, tag=🇭🇰 墙头草公益共享商业节点—香港
+vmess = 172.64.32.99:80, method=chacha20-ietf-poly1305, password=71CD14A1-F218-9B40-272A-1D9E2081D151, obfs=ws, obfs-host=hkc.freedog.buzz, obfs-uri=/, fast-open=true, tag=🇭🇰 香港C-cloudflare
