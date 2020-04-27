@@ -1,2 +1,1 @@
-vmess = xz1.mmttpp.icu:20003, method=chacha20-ietf-poly1305, password=c7fb22d6-962a-3d7c-a314-9327bc7010ae, obfs=ws, obfs-host=hinet-flys1.nnet.tech, obfs-uri=/, fast-open=true, tag=🇯🇵 徐州-A
 vmess = cn2.miaonode.cf:60022, method=chacha20-ietf-poly1305, password=583869ee-7050-3b1c-9edc-570acb485b79, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=false, tag=🇯🇵 日本中转-A
