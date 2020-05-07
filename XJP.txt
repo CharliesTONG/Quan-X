@@ -1,2 +1,0 @@
-shadowsocks = sgp-a1.uturbo.xyz:443, method=chacha20, password=mblank1port, ssr-protocol=auth_aes128_md5, ssr-protocol-param=36113:cs123456, obfs=tls1.2_ticket_auth, obfs-host=cdn.sharepointonline.com, fast-open=true, udp-relay=true, tag=🇸🇬 [单端口] 新加坡B 微软 2.5x
-vmess = jiangsu2.dieuxnode.cf:60020, method=chacha20-ietf-poly1305, password=583869ee-7050-3b1c-9edc-570acb485b79, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=false, tag=🇸🇬 新加坡中转-A
