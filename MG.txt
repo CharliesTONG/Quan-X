@@ -1,2 +1,0 @@
-vmess=69.85.93.230:25163, method=chacha20-ietf-poly1305, password=0f09a642-2a57-45bb-d876-dd72cc2908ee, obfs=ws, obfs-uri=/, fast-open=true, udp-relay=false, tag=🇺🇸 AA
-vmess = cn2.miaonode.cf:60016, method=chacha20-ietf-poly1305, password=583869ee-7050-3b1c-9edc-570acb485b79, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=false, tag=🇺🇸 美国中转-A
