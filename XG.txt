@@ -1,5 +1,0 @@
-shadowsocks = zhendefreeoneoulikepqa.zhxcshop.com:443, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=true, udp-relay=true, tag=🇭🇰 香港-B
-shadowsocks = nenggongfangprotwonali.zhxcshop.com:443, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=true, udp-relay=true, tag=🇭🇰 香港-D
-vmess = 47.240.170.12:80, method=chacha20-ietf-poly1305, password=6a2842e0-134e-4ece-8326-35c185764df7, fast-open=true, tag=🇭🇰 HK-C-80-免流-Test
-shadowsocks = www.alpha-heart.ml:23335, method=aes-256-cfb, password=eXv6lGiTUiQsGjZ, ssr-protocol=auth_sha1_v4, obfs=plain, fast-open=true, udp-relay=true, tag=🇭🇰 香港5M
-vmess = 172.64.32.99:80, method=chacha20-ietf-poly1305, password=71CD14A1-F218-9B40-272A-1D9E2081D151, obfs=ws, obfs-host=hkc.freedog.buzz, obfs-uri=/, fast-open=true, tag=🇭🇰 香港C-cloudflare
