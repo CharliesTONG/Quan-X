@@ -1,5 +1,3 @@
-shadowsocks = zhendefreeoneoulikepqa.zhxcshop.com:443, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=true, udp-relay=true, tag=🇭🇰 香港-B
-shadowsocks = nenggongfangprotwonali.zhxcshop.com:443, method=chacha20-ietf, password=kjasASHLoa, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=6DTvYkX8, obfs=tls1.2_ticket_auth, obfs-host=sacucaoji.com, fast-open=true, udp-relay=true, tag=🇭🇰 香港-D
 shadowsocks = www.alpha-heart.ml:23335, method=aes-256-cfb, password=eXv6lGiTUiQsGjZ, ssr-protocol=auth_sha1_v4, obfs=plain, fast-open=true, udp-relay=true, tag=🇭🇰 香港5M
 vmess = cn2.miaonode.cf:60006, method=chacha20-ietf-poly1305, password=583869ee-7050-3b1c-9edc-570acb485b79, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=false, tag=🇩🇪 德国中转-A
 vmess = cn2.miaonode.cf:60014, method=chacha20-ietf-poly1305, password=583869ee-7050-3b1c-9edc-570acb485b79, obfs=ws, obfs-host=vali-dns.cp31.ott.cibntv.net, obfs-uri=/, fast-open=true, udp-relay=false, tag=🇷🇺 俄罗斯中转-A
