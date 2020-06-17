@@ -1,2 +1,0 @@
-shadowsocks = www.alpha-heart.ml:23335, method=aes-256-cfb, password=eXv6lGiTUiQsGjZ, ssr-protocol=auth_sha1_v4, obfs=plain, fast-open=true, udp-relay=true, tag=🇭🇰 香港5M
-vmess=69.85.93.230:25163, method=chacha20-ietf-poly1305, password=0f09a642-2a57-45bb-d876-dd72cc2908ee, obfs=ws, obfs-uri=/, fast-open=true, udp-relay=false, tag=🇺🇸 AA
